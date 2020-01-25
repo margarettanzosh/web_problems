@@ -4,7 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - HOMEPAGE.md
+  - homepage.md
   - README.md
 
 theme: jekyll-theme-minimal
