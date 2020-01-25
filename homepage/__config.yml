@@ -1,0 +1,12 @@
+(9 sloc)  154 Bytes
+  
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - HOMEPAGE.md
+  - README.md
+
+theme: jekyll-theme-minimal
